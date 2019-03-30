@@ -1,0 +1,11 @@
+C:\Users\Roland\Dropbox\Presentaties\AspNetCoreSec\Identity\bin\Debug\netcoreapp2.0\Identity.deps.json
+C:\Users\Roland\Dropbox\Presentaties\AspNetCoreSec\Identity\bin\Debug\netcoreapp2.0\Identity.runtimeconfig.json
+C:\Users\Roland\Dropbox\Presentaties\AspNetCoreSec\Identity\bin\Debug\netcoreapp2.0\Identity.runtimeconfig.dev.json
+C:\Users\Roland\Dropbox\Presentaties\AspNetCoreSec\Identity\bin\Debug\netcoreapp2.0\Identity.dll
+C:\Users\Roland\Dropbox\Presentaties\AspNetCoreSec\Identity\bin\Debug\netcoreapp2.0\Identity.pdb
+C:\Users\Roland\Dropbox\Presentaties\AspNetCoreSec\Identity\obj\Debug\netcoreapp2.0\Identity.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Presentaties\AspNetCoreSec\Identity\obj\Debug\netcoreapp2.0\Identity.csproj.CoreCompileInputs.cache
+C:\Users\Roland\Dropbox\Presentaties\AspNetCoreSec\Identity\obj\Debug\netcoreapp2.0\Identity.AssemblyInfoInputs.cache
+C:\Users\Roland\Dropbox\Presentaties\AspNetCoreSec\Identity\obj\Debug\netcoreapp2.0\Identity.AssemblyInfo.cs
+C:\Users\Roland\Dropbox\Presentaties\AspNetCoreSec\Identity\obj\Debug\netcoreapp2.0\Identity.dll
+C:\Users\Roland\Dropbox\Presentaties\AspNetCoreSec\Identity\obj\Debug\netcoreapp2.0\Identity.pdb
